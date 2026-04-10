@@ -1,7 +1,5 @@
 # pxt-generate
 
-`generate.py` creates a fresh MakeCode Arcade project folder for you to work on projects offline.
-
 ## Usage
 
 ```powershell
